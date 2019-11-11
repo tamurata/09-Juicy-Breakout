@@ -1,2 +1,2 @@
-# 09-Juicy-Breakout
-The 4th project of game technology
+# 08-Breakdown
+The 4th project of Game technology class
