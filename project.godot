@@ -15,8 +15,8 @@ _global_script_class_icons={
 
 [application]
 
-config/name="09-Juicy-Breakout"
-run/main_scene="res://Scenes/My Game.tscn"
+config/name="Particles and Screen Shake"
+run/main_scene="res://Scenes/Game.tscn"
 config/icon="res://icon.png"
 
 [rendering]
